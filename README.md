@@ -1,1 +1,1 @@
-#mindchampwebinar.github.io
+mindchampwebinar.github.io
